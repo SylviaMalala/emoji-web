@@ -1,0 +1,102 @@
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+
+body{
+    font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:24px;
+    background:linear-gradient(180deg,#0f172a 0%, #071130 100%);
+    color:#e6eef8;
+}
+
+.card{
+    width:100%;
+    max-width:900px;
+    background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
+    border:1px solid rgba(255,255,255,0.04);
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 8px 30px rgba(2,6,23,0.6);
+}
+
+header{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+header h1{font-size:1.1rem;letter-spacing:0.2px}
+header p{font-size:0.85rem;opacity:0.8}
+
+.grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:16px;
+}
+
+@media (max-width:720px){
+    .grid{grid-template-columns:1fr}
+}
+
+.controls{
+    display:flex;
+    gap:8px;
+    margin-top:12px;
+    align-items:center;
+}
+
+textarea{
+    width:100%;
+    min-height:140px;
+    resize:vertical;
+    padding:12px;
+    border-radius:8px;
+    background:rgba(255,255,255,0.02);
+    border:1px solid rgba(255,255,255,0.04);
+    color:inherit;
+    font-size:0.95rem;
+    line-height:1.4;
+}
+
+button{
+    background:linear-gradient(180deg,#6ee7b7,#34d399);
+    border:none;
+    padding:10px 14px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:600;
+    color:#042617;
+    box-shadow:0 6px 18px rgba(36,165,129,0.12);
+}
+
+.small-btn{
+    background:transparent;
+    border:1px solid rgba(255,255,255,0.06);
+    color:inherit;
+    padding:8px 10px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:600;
+}
+
+.output{
+    min-height:140px;
+    padding:12px;
+    border-radius:8px;
+    background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.015));
+    border:1px dashed rgba(255,255,255,0.04);
+    font-size:1.2rem;
+    display:flex;
+    align-items:flex-start;
+    gap:8px;
+    flex-wrap:wrap;
+    color:#f8fcff;
+}
+
+.hint{font-size:0.85rem;opacity:0.75;margin-top:8px}
+
+.muted{opacity:0.7}
+.row{display:flex;gap:8px;align-items:center}
+
+textarea:focus, button:focus, .small-btn:focus{
+    outline:3px solid rgba(99,102,241,0.12);
+    outline-offset:2px;
+}
