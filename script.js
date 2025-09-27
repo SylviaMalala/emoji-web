@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/emojis';
+const API_URL = 'https://emoji-web.onrender.com/emojis';
 
     let emojiList = []; 
 
