@@ -1,4 +1,5 @@
-const API_URL = 'https://emoji-api.com/emojis?access_key=277986e0943e461f97da2e124b419bd546a6c63b';
+const API_URL = 'http://localhost:3000/emojis';
+
     let emojiList = []; 
 
     async function loadEmojis() {

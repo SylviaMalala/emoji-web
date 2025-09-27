@@ -1,0 +1,663 @@
+{
+  "emojis":[
+    {
+        "slug": "grinning-face",
+        "character": "\ud83d\ude00",
+        "unicodeName": "grinning face",
+        "codePoint": "1F600",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-big-eyes",
+        "character": "\ud83d\ude03",
+        "unicodeName": "grinning face with big eyes",
+        "codePoint": "1F603",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-smiling-eyes",
+        "character": "\ud83d\ude04",
+        "unicodeName": "grinning face with smiling eyes",
+        "codePoint": "1F604",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "beaming-face-with-smiling-eyes",
+        "character": "\ud83d\ude01",
+        "unicodeName": "beaming face with smiling eyes",
+        "codePoint": "1F601",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-squinting-face",
+        "character": "\ud83d\ude06",
+        "unicodeName": "grinning squinting face",
+        "codePoint": "1F606",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+
+    {
+        "slug": "laptop-computer",
+        "character": "\ud83d\udcbb",
+        "unicodeName": "laptop computer",
+        "codePoint": "1F4BB",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "desktop-computer",
+        "character": "\ud83d\udda5\ufe0f",
+        "unicodeName": "desktop computer",
+        "codePoint": "1F5A5 FE0F",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "computer-mouse",
+        "character": "\ud83d\uddb1\ufe0f",
+        "unicodeName": "computer mouse",
+        "codePoint": "1F5B1 FE0F",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "computer-disk",
+        "character": "\ud83d\udcbd",
+        "unicodeName": "computer disk",
+        "codePoint": "1F4BD",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "keyboard",
+        "character": "\ud83d\udc7d",
+        "unicodeName": "keyboard",
+        "codePoint": "1F4C8",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "printer",
+        "character": "\ud83d\udda8\ufe0f",
+        "unicodeName": "printer",
+        "codePoint": "1F5A8 FE0F",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+
+    {
+        "slug": "grinning-face",
+        "character": "\ud83d\ude00",
+        "unicodeName": "grinning face",
+        "codePoint": "1F600",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-big-eyes",
+        "character": "\ud83d\ude03",
+        "unicodeName": "grinning face with big eyes",
+        "codePoint": "1F603",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-smiling-eyes",
+        "character": "\ud83d\ude04",
+        "unicodeName": "grinning face with smiling eyes",
+        "codePoint": "1F604",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "beaming-face-with-smiling-eyes",
+        "character": "\ud83d\ude01",
+        "unicodeName": "beaming face with smiling eyes",
+        "codePoint": "1F601",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-squinting-face",
+        "character": "\ud83d\ude06",
+        "unicodeName": "grinning squinting face",
+        "codePoint": "1F606",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+
+    {
+        "slug": "smileys-emotion",
+        "subCategories": [
+            "face-smiling",
+            "face-affection",
+            "face-tongue",
+            "face-hand",
+            "face-neutral-skeptical",
+            "face-sleepy",
+            "face-unwell",
+            "face-hat",
+            "face-glasses",
+            "face-concerned",
+            "face-negative",
+            "face-costume",
+            "cat-face",
+            "monkey-face",
+            "emotion"
+        ]
+    },
+    {
+        "slug": "people-body",
+        "subCategories": [
+            "hand-fingers-open",
+            "hand-fingers-partial",
+            "hand-single-finger",
+            "hand-fingers-closed",
+            "hands",
+            "hand-prop",
+            "body-parts",
+            "person",
+            "person-gesture",
+            "person-role",
+            "person-fantasy",
+            "person-activity",
+            "person-sport",
+            "person-resting",
+            "family",
+            "person-symbol"
+        ]
+    },
+    {
+        "slug": "component",
+        "subCategories": [
+            "skin-tone",
+            "hair-style"
+        ]
+    },
+    {
+        "slug": "animals-nature",
+        "subCategories": [
+            "animal-mammal",
+            "animal-bird",
+            "animal-amphibian",
+            "animal-reptile",
+            "animal-marine",
+            "animal-bug",
+            "plant-flower",
+            "plant-other"
+        ]
+    },
+    {
+        "slug": "food-drink",
+        "subCategories": [
+            "food-fruit",
+            "food-vegetable",
+            "food-prepared",
+            "food-asian",
+            "food-marine",
+            "food-sweet",
+            "drink",
+            "dishware"
+        ]
+    },
+
+    {
+        "slug": "globe-showing-europe-africa",
+        "character": "\ud83c\udf0d",
+        "unicodeName": "globe showing Europe-Africa",
+        "codePoint": "1F30D",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-showing-americas",
+        "character": "\ud83c\udf0e",
+        "unicodeName": "globe showing Americas",
+        "codePoint": "1F30E",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-showing-asia-australia",
+        "character": "\ud83c\udf0f",
+        "unicodeName": "globe showing Asia-Australia",
+        "codePoint": "1F30F",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-with-meridians",
+        "character": "\ud83c\udf10",
+        "unicodeName": "globe with meridians",
+        "codePoint": "1F310",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "world-map",
+        "character": "\ud83d\uddfa\ufe0f",
+        "unicodeName": "world map",
+        "codePoint": "1F5FA FE0F",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+      "slug": "rocket",
+      "character": "🚀",
+      "unicodeName": "rocket",
+      "codePoint": "1F680",
+      "group": "travel-places",
+      "subGroup": "transport-air"
+    },
+    {
+      "slug": "airplane",
+      "character": "✈️",
+      "unicodeName": "airplane",
+      "codePoint": "2708 FE0F",
+      "group": "travel-places",
+      "subGroup": "transport-air"
+    },
+    {
+      "slug": "automobile",
+      "character": "🚗",
+      "unicodeName": "automobile",
+      "codePoint": "1F697",
+      "group": "travel-places",
+      "subGroup": "transport-ground"
+    },
+    {
+      "slug": "bicycle",
+      "character": "🚲",
+      "unicodeName": "bicycle",
+      "codePoint": "1F6B2",
+      "group": "travel-places",
+      "subGroup": "transport-ground"
+    },
+    {
+      "slug": "soccer-ball",
+      "character": "⚽",
+      "unicodeName": "soccer ball",
+      "codePoint": "26BD",
+      "group": "activities",
+      "subGroup": "sport"
+    },
+    {
+      "slug": "basketball",
+      "character": "🏀",
+      "unicodeName": "basketball",
+      "codePoint": "1F3C0",
+      "group": "activities",
+      "subGroup": "sport"
+    },
+    {
+      "slug": "birthday-cake",
+      "character": "🎂",
+      "unicodeName": "birthday cake",
+      "codePoint": "1F382",
+      "group": "food-drink",
+      "subGroup": "food-sweet"
+    },
+    {
+      "slug": "pizza",
+      "character": "🍕",
+      "unicodeName": "pizza",
+      "codePoint": "1F355",
+      "group": "food-drink",
+      "subGroup": "food-prepared"
+    },
+    {
+      "slug": "musical-note",
+      "character": "🎵",
+      "unicodeName": "musical note",
+      "codePoint": "1F3B5",
+      "group": "activities",
+      "subGroup": "music"
+    },
+    {
+      "slug": "microphone",
+      "character": "🎤",
+      "unicodeName": "microphone",
+      "codePoint": "1F3A4",
+      "group": "activities",
+      "subGroup": "music"
+    },
+    {
+      "slug": "red-heart",
+      "character": "❤️",
+      "unicodeName": "red heart",
+      "codePoint": "2764 FE0F",
+      "group": "symbols",
+      "subGroup": "emotion"
+    },
+    {
+      "slug": "fire",
+      "character": "🔥",
+      "unicodeName": "fire",
+      "codePoint": "1F525",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+    {
+      "slug": "hundred-points",
+      "character": "💯",
+      "unicodeName": "hundred points",
+      "codePoint": "1F4AF",
+      "group": "symbols",
+      "subGroup": "other-symbol"
+    },
+    {
+      "slug": "check-mark",
+      "character": "✔️",
+      "unicodeName": "check mark",
+      "codePoint": "2714 FE0F",
+      "group": "symbols",
+      "subGroup": "other-symbol"
+    },
+    {
+      "slug": "flag-united-states",
+      "character": "🇺🇸",
+      "unicodeName": "flag: United States",
+      "codePoint": "1F1FA 1F1F8",
+      "group": "flags",
+      "subGroup": "country-flag"
+    },
+    {
+      "slug": "flag-kenya",
+      "character": "🇰🇪",
+      "unicodeName": "flag: Kenya",
+      "codePoint": "1F1F0 1F1EA",
+      "group": "flags",
+      "subGroup": "country-flag"
+    },
+    {
+      "slug": "train",
+      "character": "🚆",
+      "unicodeName": "train",
+      "codePoint": "1F686",
+      "group": "travel-places",
+      "subGroup": "transport-ground"
+    },
+    {
+      "slug": "bus",
+      "character": "🚌",
+      "unicodeName": "bus",
+      "codePoint": "1F68C",
+      "group": "travel-places",
+      "subGroup": "transport-ground"
+    },
+    {
+      "slug": "ship",
+      "character": "🚢",
+      "unicodeName": "ship",
+      "codePoint": "1F6A2",
+      "group": "travel-places",
+      "subGroup": "transport-water"
+    },
+    {
+      "slug": "motorcycle",
+      "character": "🏍️",
+      "unicodeName": "motorcycle",
+      "codePoint": "1F3CD FE0F",
+      "group": "travel-places",
+      "subGroup": "transport-ground"
+    },
+    {
+      "slug": "tent",
+      "character": "⛺",
+      "unicodeName": "tent",
+      "codePoint": "26FA",
+      "group": "travel-places",
+      "subGroup": "place-other"
+    },
+    {
+      "slug": "sun",
+      "character": "☀️",
+      "unicodeName": "sun",
+      "codePoint": "2600 FE0F",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+    {
+      "slug": "cloud",
+      "character": "☁️",
+      "unicodeName": "cloud",
+      "codePoint": "2601 FE0F",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+    {
+      "slug": "rainbow",
+      "character": "🌈",
+      "unicodeName": "rainbow",
+      "codePoint": "1F308",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+    {
+      "slug": "snowflake",
+      "character": "❄️",
+      "unicodeName": "snowflake",
+      "codePoint": "2744 FE0F",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+    {
+      "slug": "crescent-moon",
+      "character": "🌙",
+      "unicodeName": "crescent moon",
+      "codePoint": "1F319",
+      "group": "travel-places",
+      "subGroup": "sky-weather"
+    },
+
+    {
+      "slug": "soccer-ball",
+      "character": "⚽",
+      "unicodeName": "soccer ball",
+      "codePoint": "26BD",
+      "group": "activities",
+      "subGroup": "sport"
+    },
+    {
+      "slug": "baseball",
+      "character": "⚾",
+      "unicodeName": "baseball",
+      "codePoint": "26BE",
+      "group": "activities",
+      "subGroup": "sport"
+    },
+    {
+      "slug": "tennis",
+      "character": "🎾",
+      "unicodeName": "tennis",
+      "codePoint": "1F3BE",
+      "group": "activities",
+      "subGroup": "sport"
+    },
+    {
+      "slug": "trophy",
+      "character": "🏆",
+      "unicodeName": "trophy",
+      "codePoint": "1F3C6",
+      "group": "activities",
+      "subGroup": "award-medal"
+    },
+    {
+      "slug": "medal",
+      "character": "🎖️",
+      "unicodeName": "military medal",
+      "codePoint": "1F396 FE0F",
+      "group": "activities",
+      "subGroup": "award-medal"
+    },
+
+    {
+      "slug": "apple",
+      "character": "🍎",
+      "unicodeName": "red apple",
+      "codePoint": "1F34E",
+      "group": "food-drink",
+      "subGroup": "food-fruit"
+    },
+    {
+      "slug": "banana",
+      "character": "🍌",
+      "unicodeName": "banana",
+      "codePoint": "1F34C",
+      "group": "food-drink",
+      "subGroup": "food-fruit"
+    },
+    {
+      "slug": "hamburger",
+      "character": "🍔",
+      "unicodeName": "hamburger",
+      "codePoint": "1F354",
+      "group": "food-drink",
+      "subGroup": "food-prepared"
+    },
+    {
+      "slug": "ice-cream",
+      "character": "🍨",
+      "unicodeName": "ice cream",
+      "codePoint": "1F368",
+      "group": "food-drink",
+      "subGroup": "food-sweet"
+    },
+    {
+      "slug": "coffee",
+      "character": "☕",
+      "unicodeName": "hot beverage",
+      "codePoint": "2615",
+      "group": "food-drink",
+      "subGroup": "drink"
+    },
+
+    {
+      "slug": "dog",
+      "character": "🐶",
+      "unicodeName": "dog face",
+      "codePoint": "1F436",
+      "group": "animals-nature",
+      "subGroup": "animal-mammal"
+    },
+    {
+      "slug": "cat",
+      "character": "🐱",
+      "unicodeName": "cat face",
+      "codePoint": "1F431",
+      "group": "animals-nature",
+      "subGroup": "animal-mammal"
+    },
+    {
+      "slug": "lion",
+      "character": "🦁",
+      "unicodeName": "lion face",
+      "codePoint": "1F981",
+      "group": "animals-nature",
+      "subGroup": "animal-mammal"
+    },
+    {
+      "slug": "bird",
+      "character": "🐦",
+      "unicodeName": "bird",
+      "codePoint": "1F426",
+      "group": "animals-nature",
+      "subGroup": "animal-bird"
+    },
+    {
+      "slug": "fish",
+      "character": "🐟",
+      "unicodeName": "fish",
+      "codePoint": "1F41F",
+      "group": "animals-nature",
+      "subGroup": "animal-marine"
+    },
+
+    {
+      "slug": "loudspeaker",
+      "character": "📢",
+      "unicodeName": "loudspeaker",
+      "codePoint": "1F4E2",
+      "group": "objects",
+      "subGroup": "sound"
+    },
+    {
+      "slug": "mobile-phone",
+      "character": "📱",
+      "unicodeName": "mobile phone",
+      "codePoint": "1F4F1",
+      "group": "objects",
+      "subGroup": "phone"
+    },
+    {
+      "slug": "camera",
+      "character": "📷",
+      "unicodeName": "camera",
+      "codePoint": "1F4F7",
+      "group": "objects",
+      "subGroup": "light-video"
+    },
+    {
+      "slug": "light-bulb",
+      "character": "💡",
+      "unicodeName": "light bulb",
+      "codePoint": "1F4A1",
+      "group": "objects",
+      "subGroup": "light-video"
+    },
+    {
+      "slug": "book",
+      "character": "📖",
+      "unicodeName": "open book",
+      "codePoint": "1F4D6",
+      "group": "objects",
+      "subGroup": "book-paper"
+    },
+
+    {
+      "slug": "warning",
+      "character": "⚠️",
+      "unicodeName": "warning",
+      "codePoint": "26A0 FE0F",
+      "group": "symbols",
+      "subGroup": "warning"
+    },
+    {
+      "slug": "prohibited",
+      "character": "🚫",
+      "unicodeName": "prohibited",
+      "codePoint": "1F6AB",
+      "group": "symbols",
+      "subGroup": "warning"
+    },
+    {
+      "slug": "sparkles",
+      "character": "✨",
+      "unicodeName": "sparkles",
+      "codePoint": "2728",
+      "group": "symbols",
+      "subGroup": "emotion"
+    },
+    {
+      "slug": "star",
+      "character": "⭐",
+      "unicodeName": "star",
+      "codePoint": "2B50",
+      "group": "symbols",
+      "subGroup": "emotion"
+    },
+    {
+      "slug": "infinity",
+      "character": "♾️",
+      "unicodeName": "infinity",
+      "codePoint": "267E FE0F",
+      "group": "symbols",
+      "subGroup": "other-symbol"
+    }
+]}
+

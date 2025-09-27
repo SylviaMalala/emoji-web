@@ -8,8 +8,8 @@ body{
     align-items:center;
     justify-content:center;
     padding:24px;
-    background:linear-gradient(180deg,#0f172a 0%, #071130 100%);
-    color:#e6eef8;
+    background:linear-gradient(180deg,#0b8b0b 0%, #071130 100%);
+    color:#f1f5f7;
 }
 
 .card{
